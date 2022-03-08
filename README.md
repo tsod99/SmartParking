@@ -18,15 +18,12 @@ able to be upgraded and used in all parking spaces in Bosnia and Herzegovina and
 parking lot.
 
 ## Functionalities of the software
-• Basic Look – The software should appeal to the eyes of user in a very simplistics way so
-everyone could use it without problem, ranging from 18-90 years old.
-• Simple to Use – All the interface should be simple to use without any hidden gems and
-difficulities.
-• Calculating the price – Software should calculate the price on the given hour price.
-• Showing the free spot – Every parking would be named in a code name (example: A1 to
-B20), and it will shove the code of the free parking lot for you.
-• Reservations – Through this app a user can reserve a parking for himself in advance
-• Ads – This software would not have any ads as its purpouse is not money making nature.
+* Basic Look - The software should appeal to the eyes of user in a very simplistics way so everyone could use it without problem, ranging from 18-90 years old.
+* Simple to Use - All the interface should be simple to use without any hidden gems and difficulities.
+* Calculating the price - Software should calculate the price on the given hour price.
+* Showing the free spot - Every parking would be named in a code name (example: A1 to B20), and it will shove the code of the free parking lot for you.
+* Reservations - Through this app a user can reserve a parking for himself in advance
+* Ads - This software would not have any ads as its purpouse is not money making nature.
 
 ## Implementation Technology
 For this project we will use Python programming langugae and some of its frameworks like QT and
